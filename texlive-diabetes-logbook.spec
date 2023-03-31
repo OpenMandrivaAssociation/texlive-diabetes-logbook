@@ -1,6 +1,6 @@
 Name:		texlive-diabetes-logbook
 Version:	54810
-Release:	1
+Release:	2
 Summary:	A logbook for people with type one diabetes
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/diabetes-logbook
