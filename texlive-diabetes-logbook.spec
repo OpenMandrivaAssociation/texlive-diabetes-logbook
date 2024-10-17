@@ -3,7 +3,7 @@ Version:	54810
 Release:	2
 Summary:	A logbook for people with type one diabetes
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/diabetes-logbook
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/diabetes-logbook
 License:	other-free
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/diabetes-logbook.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/diabetes-logbook.doc.r%{version}.tar.xz
